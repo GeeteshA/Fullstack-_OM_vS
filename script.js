@@ -1,3 +1,0 @@
-function hello() {
-    "Hello Geetesh"
-}
